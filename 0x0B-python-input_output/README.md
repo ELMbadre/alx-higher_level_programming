@@ -27,6 +27,6 @@ In this project I learnt to read/write files and working with json files in pyth
 
 ## Author
 
-Ilias Elmahi
+EL MOUTARIF Badreddine
 
-- GitHub: [Ielmahi](https://github.com/Ielmahi)
+- GitHub: [ELMbadre](https://github.com/ELMbadre)
